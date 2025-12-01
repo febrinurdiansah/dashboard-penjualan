@@ -4,7 +4,7 @@ Proyek ini dibuat sebagai bagian dari **Tes Staff IT** untuk CV Karya Hidup Sent
 Aplikasi menampilkan laporan penjualan dengan fitur tabel, grafik, total penjualan, dan filter tanggal.
 
 **LINK APLIKASI YANG TELAH DI-HOSTING:**
-[Akses Dashboard Penjualan di sini](https://wwww.google.com) 
+[Akses Dashboard Penjualan di sini](https://dashboard-penjualan-production-6c8d.up.railway.app/) 
 ---
 
 ## Tech Stack
