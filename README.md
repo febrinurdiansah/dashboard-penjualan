@@ -3,7 +3,7 @@
 Proyek ini dibuat sebagai bagian dari **Tes Staff IT** untuk CV Karya Hidup Sentosa.
 Aplikasi menampilkan laporan penjualan dengan fitur tabel, grafik, total penjualan, dan filter tanggal.
 
-**LINK APLIKASI YANG TELAH DI-HOSTING:**
+**Link Aplikasi Yang Telah Di-Hosting:**
 [Akses Dashboard Penjualan di sini](https://dashboard-penjualan-production-6c8d.up.railway.app/) 
 ---
 
@@ -12,9 +12,8 @@ Aplikasi menampilkan laporan penjualan dengan fitur tabel, grafik, total penjual
 - **Laravel 10/11**
 - **MySQL**
 - **Chart.js**
-- **TailwindCSS (CDN)**
 - **PHP 8.1+**
-- **Railway / Render / Vercel**
+- **Railway**
 
 ---
 
