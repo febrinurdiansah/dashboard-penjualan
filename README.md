@@ -1,6 +1,6 @@
 # Dashboard Penjualan – Laravel
 
-Proyek ini dibuat sebagai bagian dari **Tes Staff IT** untuk CV Karya Hidup Sentosa.
+Proyek ini dibuat sebagai bagian dari **Tes Staff IT** untuk CV Rumah mesin.
 Aplikasi menampilkan laporan penjualan dengan fitur tabel, grafik, total penjualan, dan filter tanggal.
 
 **Link Aplikasi Yang Telah Di-Hosting:**
